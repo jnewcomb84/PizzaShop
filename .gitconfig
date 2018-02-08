@@ -1,0 +1,9 @@
+[user]
+	name = Jeremy Newcomb
+	email = Jeremy.Newcomb@IGT.com
+[http]
+	proxy = http://lasproxy.is.ad.igt.com:9000
+[https]
+	proxy = http://lasproxy.is.ad.igt.com:9000
+[github]
+	user = acidatropos

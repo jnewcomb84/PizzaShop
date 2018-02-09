@@ -1,9 +1,7 @@
 [user]
-	name = Jeremy Newcomb
-	email = Jeremy.Newcomb@IGT.com
+	name = jnewcomb84
+	email = jnewcomb84@gmail.com
 [http]
 	proxy = http://lasproxy.is.ad.igt.com:9000
 [https]
 	proxy = http://lasproxy.is.ad.igt.com:9000
-[github]
-	user = jnewcomb84
